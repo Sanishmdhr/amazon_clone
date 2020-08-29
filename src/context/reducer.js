@@ -1,18 +1,5 @@
 export const initialState = {
-  basket: [{
-    id: "123",
-    title: "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
-    price: 11.96,
-    rating: 5,
-    image: "https://m.media-amazon.com/images/I/51IQzkj0+NL.jpg"
-  },
-  {
-    id: "123",
-    title: "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
-    price: 11.96,
-    rating: 5,
-    image: "https://m.media-amazon.com/images/I/51IQzkj0+NL.jpg"
-  }],
+  basket: [],
   user: null
 }
 

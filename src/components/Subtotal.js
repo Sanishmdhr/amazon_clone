@@ -17,7 +17,7 @@ function Subtotal() {
               Subtotal ({basket.length} items): <strong>{value}</strong>
             </p>
             <small className="subtotal__gift">
-              <input type="checkbox" /> This order contains
+              <input type="checkbox" /> This order contains a gift
             </small>
             </React.Fragment>
           )}
